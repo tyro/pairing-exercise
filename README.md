@@ -1,17 +1,23 @@
 # Pairing Exercise
 
-In the Tyro pairing interview, you will be provided with a coding challenge and paired with a member of our engineering
+In the Tyro pairing interview, you will be provided with a coding exercise and paired with a member of our engineering
 team to solve it. This exercise will give you a chance to experience some of the practices we use here at Tyro (i.e.,
-pair programming, TDD). While also allowing us to see how you code and interact with a pair.
+pair programming, TDD). Plus allowing us to see how you code and interact with a pair.
 
-This project serves as an example of what we expect you to have prepared for the interview. It contains a failing test,
-written in your choice of Java or Kotlin, and some commonly used dependencies. Feel free not to use it and create your
-own if you prefer. You may also include whatever libraries and tools you are most comfortable developing with (e.g.,
-Lombok, Gradle).
+In this repository you will find project templates for:
+
+- [Java/Kotlin](java-kotlin) \
+  A hybrid Java/Kotlin project, setup with JUnit for running tests.
+
+- [Node.js](nodejs) \
+  A simple nodejs project, setup with Jest module for running tests.
+
+Choose the template according to your language of preference and ensure that you can run tests.
+Otherwise, feel free create your own and include the libraries and tools you are most comfortable developing with.
 
 ## Copyright and Licensing
 
-Copyright 2021 Tyro Payments Limited
+Copyright 2022 Tyro Payments Limited
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the
 License. You may obtain a copy of the License at
