@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: "maven"
+    directory: "/java-kotlin"
+    schedule:
+      interval: "monthly"
+  - package-ecosystem: "npm"
+    directory: "/nodejs"
+    schedule:
+      interval: "monthly"
