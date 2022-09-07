@@ -6,11 +6,9 @@ pair programming, TDD). Plus allowing us to see how you code and interact with a
 
 In this repository you will find project templates for:
 
-- [Java/Kotlin](java-kotlin) \
-  A hybrid Java/Kotlin project, setup with JUnit for running tests.
-
-- [Node.js](nodejs) \
-  A simple nodejs project, setup with Jest module for running tests.
+- [Go](go) 
+- [Java/Kotlin](java-kotlin)
+- [Node.js](nodejs)
 
 Choose the template according to your language of preference and ensure that you can run tests.
 Otherwise, feel free create your own and include the libraries and tools you are most comfortable developing with.
